@@ -1,4 +1,6 @@
 {
+    "name": "yuga/yuga",
+    "version": "1.0",
     "autoload" :{
         "psr-4":{
             "Yuga\\":"yuga/src/Core",
