@@ -19,5 +19,10 @@
         "nesbot/carbon": "^1.22",
         "josegonzalez/dotenv": "dev-master",
         "robmorgan/phinx": "^0.8.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0-dev"
+        }
     }
 }
