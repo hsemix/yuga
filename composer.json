@@ -17,7 +17,7 @@
     "require": {
         "filp/whoops": "^2.1",
         "nesbot/carbon": "^1.22",
-        "josegonzalez/dotenv": "dev-master",
+        "josegonzalez/dotenv": "3.*",
         "robmorgan/phinx": "^0.8.1"
     },
     "extra": {
