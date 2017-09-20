@@ -1,6 +1,13 @@
 {
     "name": "yuga/yuga",
     "version": "1.0.0",
+    "description": "This is a php framework that utilizes code reusability even in the views by using the popular mvvm pattern",
+    "authors": [
+        {
+            "name": "Hamidouh Semix",
+            "email": "semix.hamidouh@gmail.com"
+        }
+    ],
     "autoload" :{
         "psr-4":{
             "Yuga\\":"yuga/src/Core",
