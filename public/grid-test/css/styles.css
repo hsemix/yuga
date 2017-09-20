@@ -1,0 +1,24 @@
+body{
+    margin: 0 auto;
+     width: 90%; 
+    clear: both;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 4fr 1fr;
+    border: 1px solid red;
+    border-radius: 2px;
+}
+
+.login{
+    height: 500px;
+    background-color: #eee;
+}
+
+.register{
+    height: 500px;
+    background-color: #ef796e;
+}
+

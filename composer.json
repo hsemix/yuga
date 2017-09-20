@@ -1,0 +1,14 @@
+{
+    "autoload" :{
+        "psr-4":{
+            "Yuga\\":"yuga/src/Core",
+            "App\\" : "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.1",
+        "nesbot/carbon": "^1.22",
+        "josegonzalez/dotenv": "dev-master",
+        "robmorgan/phinx": "^0.8.1"
+    }
+}
